@@ -1,41 +1,18 @@
-<div>
-  <h1 align="center">VENHA PARA O LADO NEGRO DA FORÇA</h1>
-
-<div align="center" valign="top"><br>
-
-  <img align="center" alt="starWars" height="120" width="140" src="https://raw.githubusercontent.com/riversdiniz/CertBootcamp/main/AnakinSkywalker.png">
-</div>
-
+<div><h1 align="center">VENHA PARA O LADO NEGRO DA FORÇA</h1><div align="center" valign="top"><br>
+      <img align="center" alt="starWars" height="120" width="140" src="https://raw.githubusercontent.com/riversdiniz/CertBootcamp/main/AnakinSkywalker.png">
 <br>
-
-  <p align="center">Apaixonado por dados e tecnologia, com sólida formação em desenvolvimento, sempre buscado implementar soluções inovadoras e criativas. Atividades práticas como coleta, preparação e análise automatizada de dados, visualizações profissionais, desenvolvimento de aplicações web e Dashboards, modelagem de dados, Linux, banco de dados e mecanismos de busca fazem parte do meu dia a dia. 🎲👨‍💻</h2>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=riversdiniz&label=Profile%20views&color=0e75b6&style=flat" alt="riversdiniz" /> </p>
+<p align="center">Apaixonado por dados e tecnologia, com sólida formação em desenvolvimento, sempre buscado implementar soluções inovadoras e criativas. Atividades práticas como coleta, preparação e análise automatizada de dados, visualizações profissionais, desenvolvimento de aplicações web e Dashboards, modelagem de dados, Linux, banco de dados e mecanismos de busca fazem parte do meu dia a dia. 🎲👨‍💻</h2>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=riversdiniz&label=Profile%20views&color=0e75b6&style=flat" alt="riversdiniz" /> </p>
 </div>
 
-<div align="center">
-  
-  <a href="https://github.com/riversdiniz">
+ <div align="center"><a href="https://github.com/riversdiniz">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=riversdiniz&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riversdiniz&theme=dracula&hide_border=false&&layout=compact"/>
     <img height="275em" src="https://github-readme-streak-stats.herokuapp.com/?user=riversdiniz&theme=dracula&hide_border=false&&layout=compact"/>
-    <img height="245em" src="https://github-readme-activity-graph.cyclic.app/graph?username=riversdiniz&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
-  
 </div>
 
 <div align="center" valign="top"><br>
-
-<!--   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="composer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-line-wordmark.svg"> -->
-
   <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
@@ -46,7 +23,9 @@
   <img align="center" alt="sql" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
   <img align="center" alt="mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
-</div><br>
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://www.instagram.com/riversdiniz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
