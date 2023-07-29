@@ -78,6 +78,9 @@ Substitua o usuário riversdiniz pelo seu usuário no GitHub.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riversdiniz&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riversdiniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riversdiniz&layout=compact&langs_count=7&theme=dracula" alt="riversdiniz" /></p>
+
+![Snake animation](https://github.com/riversdiniz/riversdiniz/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ### Entre em contato comigo! 📭
