@@ -3,7 +3,12 @@
 
 ### Sobre mim
 
-Apaixonado por dados e tecnologia, com sólida formação em desenvolvimento, sempre buscado implementar soluções inovadoras e criativas. Atividades práticas como coleta, preparação e análise automatizada de dados, visualizações profissionais, modelagem de dados, Linux, banco de dados e mecanismos de busca fazem parte do meu dia a dia. 🎲👨‍💻
+Atualmente, estou me especializando em engenharia de dados com pipeline de dados, para ampliar meus conhecimentos e habilidades na área.
+Desenvolvi pipelines de dados para coletar dados de várias fontes, limpar os dados para remover erros e inconsistências, e transformar os dados para um formato adequado para análise.
+
+Habilidades em Python, SQL, Hadoop, Spark, Airflow, Apache Hop, Petanho PDI, Databricks, Integration Server, Oracle.
+
+Essas tecnologias são essenciais para a engenharia de dados, pois permitem que os engenheiros de dados coletem, preparem, armazenem e processem dados de forma eficiente. 🎲👨‍💻
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=riversdiniz&label=Profile%20views&color=0e75b6&style=flat" alt="riversdiniz" /> </p>
 
