@@ -3,12 +3,17 @@
 
 ### Sobre mim
 
-Atualmente, estou me especializando em engenharia de dados com pipeline de dados, para ampliar meus conhecimentos e habilidades na área.
-Desenvolvi pipelines de dados para coletar dados de várias fontes, limpar os dados para remover erros e inconsistências, e transformar os dados para um formato adequado para análise.
+Minha jornada na área de Tecnologia da Informação começou em 2007, quando realizei um curso básico em hardware. Esse foi o primeiro passo que despertou meu interesse pelo campo de TI e me motivou a buscar mais conhecimentos.
 
-Habilidades em Python, SQL, Hadoop, Spark, Airflow, Apache Hop, Petanho PDI, Databricks, Integration Server, Oracle.
+Em 2016, decidi aprofundar meus estudos e iniciei um curso técnico em Suporte e Manutenção em Informática, o qual concluí em 2018. Durante esse período, tive a oportunidade de trabalhar como técnico de TI em uma empresa do polo industrial de Manaus. Essa experiência prática foi fundamental para consolidar meu aprendizado teórico e desenvolver habilidades essenciais no suporte técnico.
 
-Essas tecnologias são essenciais para a engenharia de dados, pois permitem que os engenheiros de dados coletem, preparem, armazenem e processem dados de forma eficiente. 🎲👨‍💻
+Em 2019, resolvi dar um passo adiante na minha carreira e comecei a graduação em Análise e Desenvolvimento de Sistemas. Concluí essa etapa em 2021, período no qual aprendi a programar e desenvolver sistemas, além de aprimorar minhas competências em análise de dados e gestão de projetos de TI.
+
+Com a conclusão da graduação, em 2022 mudei de função e iniciei minha trajetória como Engenheiro de Dados em uma empresa de tecnologia em São Paulo. Fui alocado como terceirizado no setor Bancário, onde atuei em diversos projetos estratégicos. Minhas principais responsabilidades incluíam a manipulação e tratamento de dados, utilizando ferramentas como SQL, PostgreSQL, Oracle, entre outras. Essa função me proporcionou uma visão aprofundada sobre o papel dos dados nas decisões empresariais e me motivou a continuar investindo na minha formação.
+
+Durante esse período, concluí duas pós-graduações em Ciência de Dados, o que ampliou significativamente meus conhecimentos em análise de dados e machine learning. Atualmente, estou matriculado na minha terceira pós-graduação, desta vez em Engenharia de Dados. Continuo atuando no setor bancário, desempenhando a função de tratador de dados, e estou constantemente em busca de aprimorar minhas habilidades técnicas e estratégicas.
+
+Minha trajetória é marcada pelo contínuo aprendizado e pela busca por desafios que me permitam crescer profissionalmente e contribuir de maneira significativa para as organizações em que atuo. 🎲👨‍💻
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=riversdiniz&label=Profile%20views&color=0e75b6&style=flat" alt="riversdiniz" /> </p>
 
